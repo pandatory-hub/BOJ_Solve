@@ -13,14 +13,11 @@ public class B2884 {
             if(H<0) {
                 H=23;
             }
-            System.out.println(H+":"+M);
+            System.out.println(H+ " " +M);
 
         }
         else {
-            System.out.println(H+":"+(M-45));
+            System.out.println(H+ " " +(M-45));
         }
-
-
     }
-
 }
